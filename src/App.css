@@ -1,22 +1,23 @@
 .App {
-  text-align: center;
+  /* text-  align: center; */
 }
 
-.task1{
-  width: 90%;
+.task{
+  width: 70%;
   margin: 3% auto;
   text-align: left;
 }
-.task1 table{
+.task table{
   border: 2px ridge black;
   border-radius: 5px;
   background-color: #eee;
   padding: 2%;
 }
-.task1 table th{
-  text-align: center;
+.task table th{
+  padding: 2%;
+  /* text-align: center; */
 }
-.task1 table td{
+.task table td{
   padding: 3% 2%;
 }
-/* .task1  */
+
